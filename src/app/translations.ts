@@ -69,7 +69,7 @@ export const translations = {
   },
   ar: {
     // Header
-    headerTitle: 'الوردة البيضاء',
+    headerTitle: 'White Rose',
     navWedding: 'فساتين الزفاف',
     navEvening: 'فساتين السهرة',
     navChildren: 'فساتين الأطفال',
